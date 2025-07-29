@@ -28,4 +28,4 @@ It’s designed to showcase featured courses, highlight key features, and provid
 ---
 
 ## 📸 Screenshots
-
+![image alt](https://github.com/TanmayPathak19/PrepCo./blob/409e117292179f3c4e30067170a9e7576df6d084/Screenshot.png)
